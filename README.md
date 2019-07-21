@@ -1,16 +1,13 @@
 # LOS-KernelLibs #
 **Repositório de bibliotecas do Kernel LOS**
 
-Este repositório será usado para a implementação das bibliotecas do kernel LOS.
+Este repositório é um submódulo do projeto LOS e será usado para a implementação das bibliotecas do kernel LOS.
 
-```
-Para um correto funcionamento, este repositório deve estar localizado no diretório:
-
-	.../LuckyOS/src/libs/kernel
-```
+***Não é necessário que o mesmo seja obtido individualmente.***
 
 ## Revisões ##
 
+* **build-009:** Reorganização da estrutura
 * **build-008:** Para implementação de *kernel.006*
 * **build-007:** Para implementação de *kernel.005*
 * **build-006:** Para implementação de *kernel.004*
