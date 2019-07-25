@@ -20,19 +20,19 @@
   Temple Place, Suite 330, Boston, MA 02111-1307, USA. Ou acesse o site do
   GNU e obtenha sua licenca: http://www.gnu.org/
 ============================================================================
-  Unit KernelLib.pas
+  Unit CoreLib.pas (antigo KernelLib)
   --------------------------------------------------------------------------
-  Unit com funcionalidades do Kernel.
+  Unit com funcionalidades do Núcleo.
   --------------------------------------------------------------------------
   Criado em: 06/09/2013
   --------------------------------------------------------------------------
   Compilar: Compilavel FPC
-  > fpc kernellib.pas
+  > fpc corelib.pas
   ------------------------------------------------------------------------
   Executar: Nao executavel diretamente; Unit.
 ===========================================================================}
 
-unit KernelLib;
+unit CoreLib;
 
 interface
 
