@@ -42,7 +42,7 @@ interface
 implementation
 
 uses SystemDef, SysCallsDef, ErrorsDef,
-  KernelLib, FileSystem;
+  CoreLib, FileSystem;
 
 
 function DirectCall(AEAX, AEBX, AECX, AEDX : UInt) : SInt;

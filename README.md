@@ -1,12 +1,13 @@
 # LOS-KernelLibs #
-**Repositório de bibliotecas do Kernel LOS**
+**Repositório de bibliotecas do Núcleo LOS**
 
-Este repositório é um submódulo do projeto LOS e será usado para a implementação das bibliotecas do kernel LOS.
+Este repositório é um submódulo do projeto LOS e será usado para a implementação das bibliotecas do núcleo LOS.
 
 ***Não é necessário que o mesmo seja obtido individualmente.***
 
 ## Revisões ##
 
+* **build-010:** Troca do nome da biblioteca (KernelLIb -> CoreLib)
 * **build-009:** Reorganização da estrutura
 * **build-008:** Para implementação de *kernel.006*
 * **build-007:** Para implementação de *kernel.005*
